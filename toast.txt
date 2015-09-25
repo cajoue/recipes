@@ -1,0 +1,8 @@
+Ingredients:
+ - 2 slices of bread
+ - butter
+
+Directions:
+  1. Put bread in toaster and start
+  2. When it pops, remove toast from toaster
+  3. Spread butter on toast - to taste
